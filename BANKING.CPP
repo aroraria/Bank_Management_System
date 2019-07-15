@@ -374,13 +374,13 @@ void intro()
 	cout<<"\n\t\t\t************************";
 	cout<<"\n\t\t\t BANK MANAGEMENT SYSTEM";
 	cout<<"\n\t\t\t************************";
-	cout<<"\n\n\n\nProject made by : Kumar Anurag";
+	cout<<"\n\n\n\nProject made by : Ria Arora";
 	cout<<"\n\nOrganization : Delhi Technical Campus";
 	delay(800);
 	cout<<"\n\n\n\n\n\n\n\nLoading Project\n";
 	for(int i=0;i<80;i++)
 	{
-	   cout<<"Û";
+	   cout<<"Ã›";
 	   delay(60);
 	}
 	cout<<"\nPress any key to continue";
